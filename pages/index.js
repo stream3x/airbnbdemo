@@ -28,7 +28,6 @@ export default function Home({ exploreData, cardsData }) {
           distance={distance} 
           location={location} 
           />
-          
         ))}
         </div>
       </section>
